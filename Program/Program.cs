@@ -9,6 +9,8 @@ namespace Program
             Console.WriteLine("Enter your name:");
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name} (Group ISP-241)!");
+            Console.WriteLine(1 + 1);
+
         }
     }
 }
